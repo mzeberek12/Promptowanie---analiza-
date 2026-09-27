@@ -54,4 +54,4 @@ podzieliłam zadanie na trzy kolejne etapy. Każdy kolejny prompt
 odnosi się do odpowiedzi uzyskanej wcześniej.
 
 **Wynik:** 
-Odpowiedź najbardziej rozbudowana z konkretnymi destynacjami. Chatbot podał odpowiednią ilość kierunków, trafne argumeny, a wszelkie inne dane zawarł w tabeli. 
+Odpowiedź najbardziej rozbudowana wraz z konkretnymi destynacjami. Chatbot podał odpowiednią ilość kierunków, trafne argumeny, a wszelkie inne dane zawarł w tabeli. 
